@@ -1,6 +1,7 @@
-import { BiPhoneCall } from "react-icons/bi";
-import { MdOutlineLocalOffer } from "react-icons/md";
+import { BiPhoneCall } from "@react-icons/all-files/bi/BiPhoneCall"; 
+import { MdOutlineLocalOffer } from "@react-icons/all-files/md/MdOutlineLocalOffer";
 import { GiSandsOfTime } from "react-icons/gi";
+import { FaBeer } from "@react-icons/all-files/fa/FaBeer";
 
 function HowItWork(){
 
